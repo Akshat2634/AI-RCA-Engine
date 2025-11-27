@@ -1,0 +1,17 @@
+[project]
+name = "ai-rca-engine"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "Akshat Sahu",email = "akshat@futurepath.ai"}
+]
+readme = "README.md"
+requires-python = ">=3.12,<4.0.0"
+dependencies = [
+    "langgraph (>=1.0.4,<2.0.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
