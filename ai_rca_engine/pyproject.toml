@@ -3,7 +3,7 @@ name = "ai-rca-engine"
 version = "0.1.0"
 description = ""
 authors = [
-    {name = "Akshat Sahu",email = "akshat@futurepath.ai"}
+    {name = "Akshat Sahu",email = "akshatsahu1@gmail.com"}
 ]
 readme = "README.md"
 requires-python = ">=3.12,<4.0.0"
